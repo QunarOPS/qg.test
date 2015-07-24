@@ -1,5 +1,4 @@
-anyjson
-babel
-iso8601
-oslo.config
-WebTest
+anyjson==0.3.3
+babel==1.3
+iso8601==0.1.9
+WebTest==1.4.0
